@@ -1,2 +1,2 @@
-# LGMVIP-Java-Task-Number
+# LGMVIP-Java-Task-Number1
 CURRENCY CONVERTOR IN JAVA
